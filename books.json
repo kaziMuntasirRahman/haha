@@ -1,0 +1,322 @@
+[
+  {
+    "bookid": 1,
+    "author_name": "Jane Austen",
+    "book_name": "Pride and Prejudice",
+    "image": "../assets/images/books_cover/pride_and_prejudice.jpg",
+    "tags": [
+      "romance",
+      "social satire"
+    ],
+    "category": "classic",
+    "rating": 4.5,
+    "review": "Pride and Prejudice by Jane Austen is a timeless classic that delves into the intricacies of 19th-century English society. The novel follows the protagonist, Elizabeth Bennet, as she navigates through the societal norms and expectations of marriage and class. Austen's wit and keen observations shine through her characters, making them both relatable and memorable. The romantic tension between Elizabeth and Mr. Darcy captivates readers, while the underlying themes of pride, prejudice, and societal expectations remain relevant today. With its rich character development and engaging plot, Pride and Prejudice continues to enchant readers of all ages.",
+    "number_of_pages": 279,
+    "publisher": "Thomas Egerton",
+    "year_of_publishing": 1813
+  },
+  {
+    "bookid": 2,
+    "author_name": "George Orwell",
+    "book_name": "1984",
+    "image": "../assets/images/books_cover/1984.jpg",
+    "tags": [
+      "dystopian",
+      "political fiction"
+    ],
+    "category": "classic",
+    "rating": 4.8,
+    "review": "George Orwell's 1984 is a chilling portrayal of a dystopian society where government surveillance and control reign supreme. Set in a totalitarian regime, the novel follows the protagonist, Winston Smith, as he rebels against the oppressive Party led by Big Brother. Orwell's prophetic vision of a world where truth is manipulated and individuality suppressed resonates deeply with readers. The themes of censorship, propaganda, and the erosion of freedom are as relevant today as they were when the novel was first published. 1984 serves as a stark warning against the dangers of authoritarianism and the importance of preserving liberty and truth.",
+    "number_of_pages": 328,
+    "publisher": "Secker & Warburg",
+    "year_of_publishing": 1949
+  },
+  {
+    "bookid": 3,
+    "author_name": "J.K. Rowling",
+    "book_name": "Harry Potter and the Sorcerer's Stone",
+    "image": "../assets/images/books_cover/harry_potter.jpg",
+    "tags": [
+      "fantasy",
+      "magic"
+    ],
+    "category": "fiction",
+    "rating": 4.9,
+    "review": "Harry Potter and the Sorcerer's Stone by J.K. Rowling is a captivating tale of magic, friendship, and adventure. Set in the wizarding world, the story follows young Harry Potter as he discovers his true identity and embarks on a journey to Hogwarts School of Witchcraft and Wizardry. Rowling's imaginative storytelling and vivid characters transport readers to a world filled with wonder and excitement. From the charming spells to the exhilarating Quidditch matches, every page brims with enchantment. With its universal themes of bravery, loyalty, and the power of love, Harry Potter continues to captivate readers of all ages, making it a modern classic.",
+    "number_of_pages": 309,
+    "publisher": "Bloomsbury",
+    "year_of_publishing": 1997
+  },
+  {
+    "bookid": 4,
+    "author_name": "F. Scott Fitzgerald",
+    "book_name": "The Great Gatsby",
+    "image": "../assets/images/books_cover/great_gatsby.jpg",
+    "tags": [
+      "romance",
+      "social critique"
+    ],
+    "category": "classic",
+    "rating": 4.7,
+    "review": "The Great Gatsby by F. Scott Fitzgerald is a poignant exploration of the American Dream and its elusive nature. Set in the decadent 1920s, the novel follows the enigmatic Jay Gatsby and his pursuit of the elusive Daisy Buchanan. Through the eyes of narrator Nick Carraway, readers are drawn into a world of wealth, glamour, and moral decay. Fitzgerald's lyrical prose and vivid imagery capture the essence of the Jazz Age, while his themes of love, ambition, and disillusionment resonate across generations. The Great Gatsby remains a timeless masterpiece that continues to provoke thought and discussion about the pursuit of happiness and the cost of success.",
+    "number_of_pages": 180,
+    "publisher": "Charles Scribner's Sons",
+    "year_of_publishing": 1925
+  },
+  {
+    "bookid": 5,
+    "author_name": "Mark Twain",
+    "book_name": "Adventures of Huckleberry Finn",
+    "image": "../assets/images/books_cover/huckleberry_finn.jpeg",
+    "tags": [
+      "adventure",
+      "satire"
+    ],
+    "category": "classic",
+    "rating": 4.6,
+    "review": "The Adventures of Huckleberry Finn by Mark Twain is a timeless classic that continues to captivate readers with its humor, adventure, and social commentary. Set in the antebellum South, the novel follows the escapades of Huck Finn and his friend Jim, a runaway slave, as they journey down the Mississippi River. Twain's sharp wit and keen observations of human nature shine through his characters, from the naive but endearing Huck to the wise and resourceful Jim. Through their encounters with conmen, hypocrites, and Southern aristocrats, Twain exposes the absurdities and injustices of society, challenging readers to confront their own prejudices and beliefs. With its enduring themes of freedom, friendship, and the search for identity, Huckleberry Finn remains a classic of American literature.",
+    "number_of_pages": 366,
+    "publisher": "Charles L. Webster and Company",
+    "year_of_publishing": 1884
+  },
+  {
+    "bookid": 6,
+    "author_name": "Leo Tolstoy",
+    "book_name": "War and Peace",
+    "image": "../assets/images/books_cover/war_and_peace.jpeg",
+    "tags": [
+      "historical fiction",
+      "epic"
+    ],
+    "category": "classic",
+    "rating": 4.9,
+    "review": "War and Peace by Leo Tolstoy is a monumental work of literature that transports readers to the heart of 19th-century Russia. Set against the backdrop of Napoleon's invasion, the novel interweaves the lives of a diverse cast of characters, from aristocrats to peasants, as they grapple with love, war, and destiny. Tolstoy's richly detailed narrative and profound insights into the human condition make War and Peace a timeless masterpiece. From the grandeur of the battlefield to the intimacy of the drawing room, Tolstoy's portrayal of Russian society is both sweeping and intimate, capturing the full spectrum of human emotions and experiences. With its epic scope and enduring relevance, War and Peace stands as one of the greatest novels ever written.",
+    "number_of_pages": 1225,
+    "publisher": "The Russian Messenger",
+    "year_of_publishing": 1869
+  },
+  {
+    "bookid": 7,
+    "author_name": "Emily Brontë",
+    "book_name": "Wuthering Heights",
+    "image": "../assets/images/books_cover/wuthering_heights.jpg",
+    "tags": [
+      "gothic",
+      "romance"
+    ],
+    "category": "classic",
+    "rating": 4.4,
+    "review": "Wuthering Heights by Emily Brontë is a dark and passionate tale of love, revenge, and obsession set against the wild Yorkshire moors. The novel follows the tempestuous relationship between Heathcliff, an orphaned boy taken in by the Earnshaw family, and Catherine Earnshaw, his fiercely independent childhood friend. Brontë's haunting prose and atmospheric setting create a gripping narrative that explores the destructive power of unchecked passion and the enduring nature of love. From its iconic characters to its atmospheric setting, Wuthering Heights continues to captivate readers with its timeless themes and complex characters.",
+    "number_of_pages": 348,
+    "publisher": "Thomas Cautley Newby",
+    "year_of_publishing": 1847
+  },
+  {
+    "bookid": 8,
+    "author_name": "Charlotte Brontë",
+    "book_name": "Jane Eyre",
+    "image": "../assets/images/books_cover/jane_eyre.jpeg",
+    "tags": [
+      "romance",
+      "coming-of-age"
+    ],
+    "category": "classic",
+    "rating": 4.7,
+    "review": "Jane Eyre by Charlotte Brontë is a timeless masterpiece that explores themes of love, independence, and social class. The novel follows the life of the orphaned Jane as she faces various challenges and hardships on her journey to self-discovery. Brontë's vivid storytelling and compelling characters, particularly the brooding Mr. Rochester, captivate readers from start to finish. Through Jane's struggles and triumphs, Brontë delivers a powerful message of resilience and inner strength. With its rich symbolism and timeless appeal, Jane Eyre continues to resonate with readers of all ages.",
+    "number_of_pages": 507,
+    "publisher": "Smith, Elder & Co.",
+    "year_of_publishing": 1847
+  },
+  {
+    "bookid": 9,
+    "author_name": "Ernest Hemingway",
+    "book_name": "The Old Man and the Sea",
+    "image": "../assets/images/books_cover/old_man_and_sea'.jpg",
+    "tags": [
+      "adventure",
+      "existentialism"
+    ],
+    "category": "classic",
+    "rating": 4.6,
+    "review": "The Old Man and the Sea by Ernest Hemingway is a poignant tale of struggle, resilience, and the indomitable human spirit. Set in the Gulf Stream off the coast of Cuba, the novella follows the aging fisherman Santiago as he embarks on an epic battle with a giant marlin. Hemingway's spare prose and powerful imagery evoke the harsh beauty of the sea and the profound solitude of the human condition. Through Santiago's solitary struggle against nature, Hemingway explores themes of perseverance, dignity, and the inevitability of defeat. The Old Man and the Sea stands as a testament to the enduring power of the human spirit in the face of adversity.",
+    "number_of_pages": 127,
+    "publisher": "Charles Scribner's Sons",
+    "year_of_publishing": 1952
+  },
+  {
+    "bookid": 10,
+    "author_name": "Mary Shelley",
+    "book_name": "Frankenstein",
+    "image": "../assets/images/books_cover/frankenstein.jpeg",
+    "tags": [
+      "gothic",
+      "science fiction"
+    ],
+    "category": "classic",
+    "rating": 4.5,
+    "review": "Frankenstein by Mary Shelley is a groundbreaking work of Gothic literature that explores themes of creation, ambition, and the nature of humanity. The novel follows Victor Frankenstein, a young scientist who creates a grotesque creature in a scientific experiment gone awry. Shelley's narrative delves into the moral and philosophical implications of scientific discovery, as Victor grapples with the consequences of playing God. Through the creature's journey of self-discovery and alienation, Shelley prompts readers to question what it means to be human. With its haunting imagery and profound exploration of ethical dilemmas, Frankenstein remains a timeless masterpiece that continues to provoke thought and discussion.",
+    "number_of_pages": 280,
+    "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+    "year_of_publishing": 1818
+  },
+  {
+    "bookid": 11,
+    "author_name": "Charles Dickens",
+    "book_name": "Great Expectations",
+    "image": "../assets/images/books_cover/great_expectations.webp",
+    "tags": [
+      "bildungsroman",
+      "social critique"
+    ],
+    "category": "classic",
+    "rating": 4.8,
+    "review": "Great Expectations by Charles Dickens is a compelling Bildungsroman that explores themes of ambition, identity, and class in Victorian England. The novel follows the orphaned Pip as he navigates the complexities of society and grapples with his own sense of self-worth. Dickens' vivid characters and intricate plot twists captivate readers, from the mysterious Miss Havisham to the convict Magwitch. Through Pip's journey from poverty to wealth, Dickens offers a scathing critique of social inequality and the corrupting influence of ambition. With its timeless themes and memorable characters, Great Expectations continues to resonate with readers of all ages.",
+    "number_of_pages": 505,
+    "publisher": "Chapman & Hall",
+    "year_of_publishing": 1861
+  },
+  {
+    "bookid": 12,
+    "author_name": "Herman Melville",
+    "book_name": "Moby-Dick",
+    "image": "../assets/images/books_cover/moby_dick.jpeg",
+    "tags": [
+      "adventure",
+      "philosophical"
+    ],
+    "category": "classic",
+    "rating": 4.6,
+    "review": "Moby-Dick by Herman Melville is a monumental work of American literature that explores themes of obsession, fate, and the power of nature. The novel follows the journey of Captain Ahab and his crew aboard the whaling ship Pequod as they pursue the elusive white whale, Moby Dick. Melville's richly symbolic narrative and poetic prose immerse readers in the epic quest for vengeance and redemption. Through Ahab's relentless pursuit of his nemesis, Melville grapples with existential questions of free will and destiny. With its sweeping scope and profound themes, Moby-Dick stands as one of the greatest novels ever written.",
+    "number_of_pages": 635,
+    "publisher": "Richard Bentley",
+    "year_of_publishing": 1851
+  },
+  {
+    "bookid": 13,
+    "author_name": "Victor Hugo",
+    "book_name": "Les Misérables",
+    "image": "../assets/images/books_cover/les_miserables.png",
+    "tags": [
+      "historical fiction",
+      "social justice"
+    ],
+    "category": "classic",
+    "rating": 4.9,
+    "review": "Les Misérables by Victor Hugo is a sweeping epic that explores themes of love, redemption, and social injustice in 19th-century France. The novel follows the lives of several characters, including the ex-convict Jean Valjean, the idealistic Marius Pontmercy, and the tragic Fantine, as they navigate the tumultuous events of the French Revolution. Hugo's powerful storytelling and vivid characters capture the struggles of the oppressed and the pursuit of justice in a society rife with inequality. Through its timeless themes and stirring narrative, Les Misérables continues to inspire readers around the world.",
+    "number_of_pages": 1463,
+    "publisher": "A. Lacroix, Verboeckhoven & Cie.",
+    "year_of_publishing": 1862
+  },
+  {
+    "bookid": 14,
+    "author_name": "Fyodor Dostoevsky",
+    "book_name": "Crime and Punishment",
+    "image": "../assets/images/books_cover/crime_and_punishment.jpeg",
+    "tags": [
+      "psychological fiction",
+      "morality"
+    ],
+    "category": "classic",
+    "rating": 4.8,
+    "review": "Crime and Punishment by Fyodor Dostoevsky is a profound exploration of morality, guilt, and redemption set in 19th-century St. Petersburg. The novel follows the troubled ex-student Raskolnikov, who commits a heinous crime out of a belief in his own superiority and the moral necessity of his actions. Dostoevsky's psychological depth and philosophical insights into the human psyche make Crime and Punishment a gripping and thought-provoking read. Through Raskolnikov's inner turmoil and eventual redemption, Dostoevsky confronts readers with timeless questions about the nature of good and evil, guilt and redemption. Crime and Punishment remains a masterpiece of Russian literature, challenging readers to confront the darkest corners of the human soul.",
+    "number_of_pages": 551,
+    "publisher": "The Russian Messenger",
+    "year_of_publishing": 1866
+  },
+  {
+    "bookid": 15,
+    "author_name": "Gabriel García Márquez",
+    "book_name": "One Hundred Years of Solitude",
+    "image": "../assets/images/books_cover/one_hundred_years_of_solitude.jpeg",
+    "tags": [
+      "magical realism",
+      "family saga"
+    ],
+    "category": "classic",
+    "rating": 4.7,
+    "review": "One Hundred Years of Solitude by Gabriel García Márquez is a mesmerizing tapestry of magic and realism woven into the fabric of a family saga. Set in the fictional town of Macondo, the novel chronicles the Buendía family's trials and tribulations over several generations. García Márquez's lyrical prose and intricate storytelling transport readers to a world where the extraordinary and the mundane coexist. Through themes of love, power, and the cyclical nature of history, the novel explores the complexities of human existence and the eternal quest for meaning. With its timeless appeal and universal themes, One Hundred Years of Solitude continues to captivate readers around the globe.",
+    "number_of_pages": 417,
+    "publisher": "Harper & Row",
+    "year_of_publishing": 1967
+  },
+  {
+    "bookid": 16,
+    "author_name": "Toni Morrison",
+    "book_name": "Beloved",
+    "image": "../assets/images/books_cover/beloved.jpeg",
+    "tags": [
+      "historical fiction",
+      "ghost story"
+    ],
+    "category": "classic",
+    "rating": 4.8,
+    "review": "Beloved by Toni Morrison is a haunting masterpiece that delves into the legacy of slavery and the enduring trauma it leaves on individuals and families. Set in the aftermath of the American Civil War, the novel follows Sethe, a former slave, as she grapples with the ghosts of her past, both literal and metaphorical. Morrison's evocative prose and powerful imagery bring to life the horrors of slavery and its aftermath, while exploring themes of memory, identity, and the search for freedom. Beloved is a profound meditation on the resilience of the human spirit and the healing power of love.",
+    "number_of_pages": 321,
+    "publisher": "Alfred A. Knopf",
+    "year_of_publishing": 1987
+  },
+  {
+    "bookid": 17,
+    "author_name": "Harper Lee",
+    "book_name": "To Kill a Mockingbird",
+    "image": "../assets/images/books_cover/to_kill_a_mockingbird.jpeg",
+    "tags": [
+      "coming-of-age",
+      "social justice"
+    ],
+    "category": "classic",
+    "rating": 4.9,
+    "review": "To Kill a Mockingbird by Harper Lee is a timeless classic that confronts the deep-rooted prejudices and injustices prevalent in the American South. Through the eyes of young Scout Finch, the novel explores themes of racism, empathy, and moral integrity as her father, Atticus Finch, defends a black man wrongly accused of raping a white woman. Lee's poignant storytelling and memorable characters, including the enigmatic Boo Radley, resonate with readers of all ages, challenging them to confront their own biases and preconceptions. To Kill a Mockingbird stands as a powerful testament to the enduring power of empathy and the pursuit of justice.",
+    "number_of_pages": 324,
+    "publisher": "J. B. Lippincott & Co.",
+    "year_of_publishing": 1960
+  },
+  {
+    "bookid": 18,
+    "author_name": "Aldous Huxley",
+    "book_name": "Brave New World",
+    "image": "../assets/images/books_cover/brave_new_world.jpeg",
+    "tags": [
+      "dystopian",
+      "science fiction"
+    ],
+    "category": "classic",
+    "rating": 4.6,
+    "review": "Brave New World by Aldous Huxley is a prophetic vision of a dystopian future where individuality is sacrificed for societal stability and happiness. Set in a world of genetic engineering, psychological conditioning, and mass consumption, the novel follows the journey of Bernard Marx as he navigates the rigidly controlled society of the World State. Huxley's exploration of themes such as freedom, conformity, and the pursuit of happiness challenges readers to reconsider the nature of humanity and the price of progress. Brave New World remains a compelling critique of the dangers posed by unchecked technological advancement and the erosion of individual liberties.",
+    "number_of_pages": 311,
+    "publisher": "Chatto & Windus",
+    "year_of_publishing": 1932
+  },
+  {
+    "bookid": 19,
+    "author_name": "Kurt Vonnegut",
+    "book_name": "Slaughterhouse-Five",
+    "image": "../assets/images/books_cover/slaughterhouse_five.jpg",
+    "tags": [
+      "science fiction",
+      "satire"
+    ],
+    "category": "classic",
+    "rating": 4.5,
+    "review": "Slaughterhouse-Five by Kurt Vonnegut is a surreal and darkly comedic exploration of war, time, and the human condition. The novel follows the experiences of Billy Pilgrim, an American soldier who becomes 'unstuck in time' and experiences moments of his life in a non-linear fashion, including his time as a prisoner of war during the bombing of Dresden in World War II. Vonnegut's blend of science fiction, satire, and autobiography creates a unique and thought-provoking narrative that challenges traditional notions of storytelling and reality. Slaughterhouse-Five remains a powerful anti-war novel and a testament to the absurdity of human conflict.",
+    "number_of_pages": 275,
+    "publisher": "Delacorte Press",
+    "year_of_publishing": 1969
+  },
+  {
+    "bookid": 20,
+    "author_name": "J.R.R. Tolkien",
+    "book_name": "The Lord of the Rings",
+    "image": "../assets/images/books_cover/lord_of_the_rings.jpg",
+    "tags": [
+      "fantasy",
+      "adventure"
+    ],
+    "category": "fiction",
+    "rating": 4.9,
+    "review": "The Lord of the Rings by J.R.R. Tolkien is a timeless epic that transports readers to the enchanting world of Middle-earth. The trilogy follows the perilous journey of Frodo Baggins and his companions as they seek to destroy the One Ring and defeat the dark lord Sauron. Tolkien's richly imagined world, populated by diverse races, cultures, and landscapes, captivates readers with its depth and complexity. Through themes of courage, friendship, and sacrifice, Tolkien explores the timeless struggle between good and evil, creating a narrative that resonates with readers of all ages. The Lord of the Rings remains a beloved classic of fantasy literature, inspiring generations of readers with its unforgettable characters and epic scope.",
+    "number_of_pages": 1178,
+    "publisher": "Allen & Unwin",
+    "year_of_publishing": 1954
+  }
+]
